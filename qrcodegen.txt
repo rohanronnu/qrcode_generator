@@ -1,0 +1,7 @@
+This python project can be used to generate any random QR code for the given data.
+The user gives data as the input.
+The qrcode module is imported and is used to generate the qr code.
+The user can also specify the box size and the version(complexity) of the qr code.
+Based on the given inputs the size of the qr code varies.
+The user also specifies the fill color and the back color of the qr code.
+The qr code image is saved in the folder using the save function.
